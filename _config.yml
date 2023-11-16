@@ -20,9 +20,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Lagrange'
-description:	       'a minimalist Jekyll theme'
-author:              'Paul Le'
+title:		           'Mario Cuevas, el creador de sitios web con Jekyll'
+description:	       'Esta vez traemos Lagrange, una plantilla muy interesante'
+author:              'Mario Cuevas'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

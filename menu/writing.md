@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Writing
+title: Historial de posts
 permalink: /writing
 ---
